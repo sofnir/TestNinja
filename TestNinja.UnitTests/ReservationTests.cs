@@ -3,7 +3,7 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.UnitTests
 {
-    public class Tests
+    public class ReservationTests
     {
         [SetUp]
         public void Setup()
